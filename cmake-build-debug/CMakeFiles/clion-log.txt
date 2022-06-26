@@ -1,0 +1,5 @@
+"D:\PROGRAM FILES\CLion 2021.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/PROGRAM FILES/CLion 2021.3.2/bin/ninja/win/ninja.exe" -G Ninja "D:\project cpp\PingPongGame"
+-- Found Python: C:/Users/kiril/AppData/Local/Programs/Python/Python39/python.exe (found version "3.9.7") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/project cpp/PingPongGame/cmake-build-debug

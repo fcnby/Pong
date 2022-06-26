@@ -1,0 +1,17 @@
+# ninja log v5
+1	668	6779522937928852	CMakeFiles/PingPongGame.dir/main.cpp.obj	ade11a94eed505ca
+671	807	6779522939279179	PingPongGame.exe	c4f24acf38d1534e
+34	2333	6779525560463463	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	16c1f146cb034203
+19	2732	6779525564460574	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	e56909f7d3f6a52f
+0	2927	6779525566400994	CMakeFiles/test_app.dir/test.cpp.obj	ee5c6e3b76f718ad
+24	4398	6779525581064314	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	986e5f06bf8ce7b3
+28	8474	6779525621760042	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	90933a26492b4d3c
+8475	10499	6779525642124183	lib/libgtest.a	aad5cea744247e1d
+10508	10571	6779525642854267	lib/libgtest_main.a	d76e82c4a401136b
+10502	10820	6779525645343414	lib/libgmock.a	3a4b714ddb1ba8af
+10820	10887	6779525646018158	lib/libgmock_main.a	63cc4c1d24eb871b
+10887	13514	6779525672222412	test_app.exe	854fe1c3519aa1d5
+4	2221	6779526024921561	CMakeFiles/test_app.dir/test.cpp.obj	ee5c6e3b76f718ad
+2221	4827	6779526050926461	test_app.exe	854fe1c3519aa1d5
+2	646	6779526664280800	CMakeFiles/PingPongGame.dir/main.cpp.obj	ade11a94eed505ca
+646	787	6779526665681307	PingPongGame.exe	c4f24acf38d1534e
